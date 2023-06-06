@@ -38,4 +38,4 @@ async def load_cog():
 
 if __name__ == "__main__":
     asyncio.run(load_cog())
-    bot.run("MTEwNDUxOTIwNTAyNzU3Nzg5OQ.G787g_.JjSWA25vNBwMsJbEeNAgkIDby7xIEYtsgzzWrE")
+    bot.run("token")
