@@ -1,0 +1,19 @@
+[2023-05-07 05:14:30] [ERROR   ] discord_bot: Failed to load extension fun
+ExtensionFailed: Extension 'cogs.fun' raised an error: FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+[2023-05-07 05:14:30] [INFO    ] discord_bot: Loaded extension 'general'
+[2023-05-07 05:14:30] [INFO    ] discord_bot: Loaded extension 'moderation'
+[2023-05-07 05:14:30] [ERROR   ] discord_bot: Failed to load extension music
+ExtensionFailed: Extension 'cogs.music' raised an error: FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+[2023-05-07 05:14:30] [ERROR   ] discord_bot: Failed to load extension music2
+ExtensionFailed: Extension 'cogs.music2' raised an error: FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+[2023-05-07 05:14:30] [INFO    ] discord_bot: Loaded extension 'owner'
+[2023-05-07 05:14:30] [INFO    ] discord_bot: Loaded extension 'sesat'
+[2023-05-07 05:14:30] [INFO    ] discord_bot: Loaded extension 'test'
+[2023-05-07 05:14:31] [ERROR   ] discord_bot: Failed to load extension tolls
+ExtensionFailed: Extension 'cogs.tolls' raised an error: ModuleNotFoundError: No module named 'tensorflow'
+[2023-05-07 05:14:36] [INFO    ] discord_bot: Logged in as ExAndC
+[2023-05-07 05:14:36] [INFO    ] discord_bot: discord.py API version: 2.2.2
+[2023-05-07 05:14:36] [INFO    ] discord_bot: Python version: 3.11.3
+[2023-05-07 05:14:36] [INFO    ] discord_bot: Running on: Windows 10 (nt)
+[2023-05-07 05:14:36] [INFO    ] discord_bot: -------------------
+[2023-05-07 05:14:36] [INFO    ] discord_bot: Syncing commands globally...
